@@ -15,4 +15,8 @@ for char in a:
 print(word_count)
 
 
+# Вариант 2 тк урока по циклам еще не было:
+count = a.count(" ")
+print(count + 1)
+
 
